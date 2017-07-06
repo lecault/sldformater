@@ -14,6 +14,6 @@ delete se:
 
 replace SvgParameter by CssParameter
 
-delete '<Description>' and </Description>
+delete Description and /Description
 
 replace escapeChar by escape
